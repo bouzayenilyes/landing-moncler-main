@@ -6,7 +6,7 @@ This is perfect for anyone looking to level up their frontend skills! 🚀
 
 ## 🔗 Live Demo & Source Code
 
-- **Live Demo:** [Moncler UI on Netlify]([https://moncler-ui.netlify.app/](https://landing-moncler.vercel.app/))
+- **Live Demo:** [Moncler UI on Vercel]([https://moncler-ui.netlify.app/](https://landing-moncler.vercel.app/))
 - **Source Code:** [GitHub Repository](https://github.com/bouzayenilyes/landing-moncler-main.git)
 - **Design Inspiration:** [Dribbble Design Shot](https://dribbble.com/shots/21212751-A...)
 
