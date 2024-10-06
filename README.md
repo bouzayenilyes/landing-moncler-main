@@ -8,7 +8,6 @@ This is perfect for anyone looking to level up their frontend skills! 🚀
 
 - **Live Demo:** [Moncler UI on Vercel](https://landing-moncler.vercel.app/)
 - **Source Code:** [GitHub Repository](https://github.com/bouzayenilyes/landing-moncler-main.git)
-- **Design Inspiration:** [Dribbble Design Shot](https://dribbble.com/shots/21212751-A...)
 
 ## 💻 Technologies Used
 
